@@ -3,9 +3,9 @@
 
 <ul>
   <li>👨‍🎓🏫📚 I'm currently a BIT Student at RRC Polytech</li>
-  <li>🌱 I’m currently learning Php, React.js</li>
-  <li>👯 I’m looking to collaborate on Java, C#, MySQL</li>
-  <li>🤔 I’m looking for help with Image OCR</li>
+  <li>🌱 I’m currently learning Php, Python, IoT with Python</li>
+  <li>👯 I’m looking to collaborate on Java, C#, MySQL, SAP Data Services</li>
+  <li>🤔 I’m looking for help with IoT</li>
   <li>📫 You can reach me through gusdayrell@gmail.com</li>
 
 
