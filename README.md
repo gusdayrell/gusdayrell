@@ -2,10 +2,9 @@
 ### Hi there 👋
 
 <ul>
-  <li>👨‍🎓🏫📚 I'm currently a BIT Student at RRC Polytech</li>
-  <li>🌱 I’m currently learning Php, Python, IoT with Python</li>
-  <li>👯 I’m looking to collaborate on Java, C#, MySQL, SAP Data Services</li>
-  <li>🤔 I’m looking for help with IoT</li>
+  <li>👨‍🎓🏫📚 I'm a Software Engineer at IGM Financial</li>
+  <li>🌱 Working mainly with Data Development using SAP HANA, DS Designer, and Python</li>
+  <li>👯 I’m looking to collaborate on Java, C#, SQL, SAP Data Services</li>
   <li>📫 You can reach me through gusdayrell@gmail.com</li>
 
 
